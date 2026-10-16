@@ -1,0 +1,7 @@
+funasr>=1.4
+modelscope
+torch
+torchaudio
+kaldi-native-fbank
+soundfile
+python-docx
